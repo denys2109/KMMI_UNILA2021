@@ -1,0 +1,103 @@
+{
+    "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333",
+        "label": "Baked Chicken",
+        "image": "https://www.edamam.com/web-img/01c/01cacb70890274fb7b7cebb975a93231.jpg",
+        "source": "Martha Stewart",
+        "url": "http://www.marthastewart.com/318981/baked-chicken",
+        "shareAs": "http://www.edamam.com/recipe/baked-chicken-be3ba087e212f13672b553ecfa876333/chicken",
+        "yield": 4.0,
+        "dietLabels": [
+            "Low-Carb"
+        ],
+        "healthLabels": [
+            "Sugar-Conscious",
+            "Keto-Friendly",
+            "Paleo",
+            "Mediterranean",
+            "Dairy-Free",
+            "Gluten-Free",
+            "Wheat-Free",
+            "Egg-Free",
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Red-Meat-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Mustard-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "No oil added",
+            "Sulfite-Free",
+            "FODMAP-Free",
+            "Kosher"
+        ],
+        "cautions": [
+            "FODMAP"
+        ],
+        "ingredientLines": [
+            "6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on",
+            "1/2 teaspoon coarse salt",
+            "1/2 teaspoon Mrs. Dash seasoning",
+            "1/4 teaspoon freshly ground black pepper"
+        ],
+        "ingredients": [
+            {
+                "text": "6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on",
+                "quantity": 6.0,
+                "measure": "half",
+                "food": "chicken breast",
+                "weight": 522.0,
+                "foodCategory": "Poultry",
+                "foodId": "food_a9hdg97b1sqqs5aj1al75bbo5iyt",
+                "image": "https://www.edamam.com/food-img/093/093749f4c93e448119fc81976d2c3067.jpg"
+            },
+            {
+                "text": "1/2 teaspoon coarse salt",
+                "quantity": 0.5,
+                "measure": "teaspoon",
+                "food": "coarse salt",
+                "weight": 2.4270833334564377,
+                "foodCategory": "Condiments and sauces",
+                "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+                "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+            },
+            {
+                "text": "1/2 teaspoon Mrs. Dash seasoning",
+                "quantity": 0.5,
+                "measure": "teaspoon",
+                "food": "seasoning",
+                "weight": 0.75,
+                "foodCategory": "Condiments and sauces",
+                "foodId": "food_aj7w3xab0epj7cbgkbkpwadysovd",
+                "image": "https://www.edamam.com/food-img/c23/c23e20823b442067307aa436969358f1.jpg"
+            },
+            {
+                "text": "1/4 teaspoon freshly ground black pepper",
+                "quantity": 0.25,
+                "measure": "teaspoon",
+                "food": "black pepper",
+                "weight": 0.575,
+                "foodCategory": "Condiments and sauces",
+                "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+                "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+            }
+        ],
+        "calories": 901.58575,
+        "totalWeight": 525.6156350198669,
+        "totalTime": 0.0 
+    },
+    "links": {
+        "self": {
+            "href": "https://api.edamam.com/api/recipes/v2/be3ba087e212f13672b553ecfa876333?type=public&app_id=6cae303f&app_key=2f435392f588875a650af33b36847228",
+            "title": "Self"
+        }
+    }
+}
+
