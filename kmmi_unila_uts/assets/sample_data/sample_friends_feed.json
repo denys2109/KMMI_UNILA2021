@@ -1,0 +1,35 @@
+{
+    "feed": [
+        {
+            "profileImageUrl": "assets/images/profile_pics/person_cesare.jpeg",
+            "comment": "Machine learning webinar really interesting!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "profileImageUrl": "assets/images/profile_pics/person_stef.jpeg",
+            "comment": "After i watch artificial intelligence webinar, i can understand about how AI works.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "80"
+        },
+        {
+            "profileImageUrl": "assets/images/profile_pics/person_crispy.png",
+            "comment": "This platform really useful.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "20"
+        },
+        {
+            "profileImageUrl": "assets/images/profile_pics/person_joe.jpeg",
+            "comment": "Yeay, i can learn Machine Learning from this platform.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "profileImageUrl": "assets/images/profile_pics/person_katz.jpeg",
+            "comment": "I got more new insight after join this webinar",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        }
+        
+    ]
+}
